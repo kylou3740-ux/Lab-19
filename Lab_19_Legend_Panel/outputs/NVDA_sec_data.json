@@ -1,0 +1,164 @@
+{
+  "ticker": "NVDA",
+  "cik": "0001045810",
+  "unit": "USD millions unless percentage",
+  "years": [
+    {
+      "fiscal_year_end": "2022-01-30",
+      "revenue": 26914.0,
+      "net_income": 9752.0,
+      "operating_cash_flow": 9108.0,
+      "capital_spending": 976.0,
+      "research_and_development": 5268.0,
+      "equity": 26612.0,
+      "liabilities": 17575.0,
+      "assets_current": 28829.0,
+      "liabilities_current": 4335.0,
+      "current_ratio": 6.650288350634371,
+      "liabilities_to_equity": 0.6604163535247257,
+      "roe_pct": 36.64512250112731,
+      "owner_earnings": 8132.0,
+      "tags": {
+        "revenue": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquireProductiveAssets",
+        "research_and_development": "ResearchAndDevelopmentExpense",
+        "equity": "StockholdersEquity",
+        "liabilities": "Liabilities",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent"
+      }
+    },
+    {
+      "fiscal_year_end": "2023-01-29",
+      "revenue": 26974.0,
+      "net_income": 4368.0,
+      "operating_cash_flow": 5641.0,
+      "capital_spending": 1833.0,
+      "research_and_development": 7339.0,
+      "equity": 22101.0,
+      "liabilities": 19081.0,
+      "assets_current": 23073.0,
+      "liabilities_current": 6563.0,
+      "current_ratio": 3.515617857687033,
+      "liabilities_to_equity": 0.8633545993393964,
+      "roe_pct": 19.763811592235644,
+      "owner_earnings": 3808.0,
+      "tags": {
+        "revenue": "Revenues",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquireProductiveAssets",
+        "research_and_development": "ResearchAndDevelopmentExpense",
+        "equity": "StockholdersEquity",
+        "liabilities": "Liabilities",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent"
+      }
+    },
+    {
+      "fiscal_year_end": "2024-01-28",
+      "revenue": 60922.0,
+      "net_income": 29760.0,
+      "operating_cash_flow": 28090.0,
+      "capital_spending": 1069.0,
+      "research_and_development": 8675.0,
+      "equity": 42978.0,
+      "liabilities": 22750.0,
+      "assets_current": 44345.0,
+      "liabilities_current": 10631.0,
+      "current_ratio": 4.171291505973097,
+      "liabilities_to_equity": 0.529340592861464,
+      "roe_pct": 69.24472986178975,
+      "owner_earnings": 27021.0,
+      "tags": {
+        "revenue": "Revenues",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquireProductiveAssets",
+        "research_and_development": "ResearchAndDevelopmentExpense",
+        "equity": "StockholdersEquity",
+        "liabilities": "Liabilities",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent"
+      }
+    },
+    {
+      "fiscal_year_end": "2025-01-26",
+      "revenue": 130497.0,
+      "net_income": 72880.0,
+      "operating_cash_flow": 64089.0,
+      "capital_spending": 3236.0,
+      "research_and_development": 12914.0,
+      "equity": 79327.0,
+      "liabilities": 32274.0,
+      "assets_current": 80126.0,
+      "liabilities_current": 18047.0,
+      "current_ratio": 4.439851498864077,
+      "liabilities_to_equity": 0.4068476054811098,
+      "roe_pct": 91.87288060811576,
+      "owner_earnings": 60853.0,
+      "tags": {
+        "revenue": "Revenues",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquireProductiveAssets",
+        "research_and_development": "ResearchAndDevelopmentExpense",
+        "equity": "StockholdersEquity",
+        "liabilities": "Liabilities",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent"
+      }
+    },
+    {
+      "fiscal_year_end": "2026-01-25",
+      "revenue": 215938.0,
+      "net_income": 120067.0,
+      "operating_cash_flow": 102718.0,
+      "capital_spending": 6042.0,
+      "research_and_development": 18497.0,
+      "equity": 157293.0,
+      "liabilities": 49510.0,
+      "assets_current": 125605.0,
+      "liabilities_current": 32163.0,
+      "current_ratio": 3.905263812455306,
+      "liabilities_to_equity": 0.3147628947251308,
+      "roe_pct": 76.33333969089534,
+      "owner_earnings": 96676.0,
+      "tags": {
+        "revenue": "Revenues",
+        "net_income": "NetIncomeLoss",
+        "operating_cash_flow": "NetCashProvidedByUsedInOperatingActivities",
+        "capital_spending": "PaymentsToAcquireProductiveAssets",
+        "research_and_development": "ResearchAndDevelopmentExpense",
+        "equity": "StockholdersEquity",
+        "liabilities": "Liabilities",
+        "assets_current": "AssetsCurrent",
+        "liabilities_current": "LiabilitiesCurrent"
+      }
+    }
+  ],
+  "checks": {
+    "roe_15_percent_every_year": "pass",
+    "owner_earnings_positive_every_year": "pass",
+    "owner_earnings_grew_first_to_last": "pass"
+  },
+  "revenue_cagr_pct": 68.30139148028267,
+  "rd_pct_latest_year": 8.565884652076058,
+  "panel_checks": {
+    "buffett": {
+      "roe_15_percent_every_year": "pass",
+      "owner_earnings_positive_every_year": "pass",
+      "owner_earnings_grew_first_to_last": "pass"
+    },
+    "cathie_wood": {
+      "revenue_growth_15_percent_first_to_last": "pass",
+      "research_and_development_5_percent_latest_year": "pass"
+    },
+    "burry": {
+      "operating_cash_flow_at_least_net_income_every_year": "fail",
+      "liabilities_no_more_than_2x_equity_latest_year": "pass"
+    }
+  }
+}

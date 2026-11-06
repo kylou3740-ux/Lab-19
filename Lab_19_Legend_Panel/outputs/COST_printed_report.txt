@@ -1,0 +1,71 @@
+FIN 43900 LAB 19 — LEGEND INVESTOR PANEL: COST
+CIK: 0000909832
+All monetary values are USD millions.
+Revenue CAGR, first to last year (annualized): 7.51%
+Latest-year R&D / revenue: not found%
+
+FY end | Revenue | Net income | Operating cash flow | Capital spending | R&D | Equity | Liabilities | Current assets | Current liabilities | Current ratio | Liabilities/equity | ROE % | Owner earnings
+--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---:
+2022-08-28 | 226,954 | 5,844 | 7,392 | 3,891 | not found | 20,642 | 43,519 | 32,696 | 31,998 | 1.02 | 2.11 | 28.3 | 3,501
+XBRL tag — 2022-08-28 — revenue: RevenueFromContractWithCustomerExcludingAssessedTax
+XBRL tag — 2022-08-28 — net_income: NetIncomeLoss
+XBRL tag — 2022-08-28 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2022-08-28 — capital_spending: PaymentsToAcquirePropertyPlantAndEquipment
+XBRL tag — 2022-08-28 — research_and_development: not found
+XBRL tag — 2022-08-28 — equity: StockholdersEquity
+XBRL tag — 2022-08-28 — liabilities: Liabilities
+XBRL tag — 2022-08-28 — assets_current: AssetsCurrent
+XBRL tag — 2022-08-28 — liabilities_current: LiabilitiesCurrent
+2023-09-03 | 242,290 | 6,292 | 11,068 | 4,323 | not found | 25,058 | 43,936 | 35,879 | 33,583 | 1.07 | 1.75 | 25.1 | 6,745
+XBRL tag — 2023-09-03 — revenue: RevenueFromContractWithCustomerExcludingAssessedTax
+XBRL tag — 2023-09-03 — net_income: NetIncomeLoss
+XBRL tag — 2023-09-03 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2023-09-03 — capital_spending: PaymentsToAcquirePropertyPlantAndEquipment
+XBRL tag — 2023-09-03 — research_and_development: not found
+XBRL tag — 2023-09-03 — equity: StockholdersEquity
+XBRL tag — 2023-09-03 — liabilities: Liabilities
+XBRL tag — 2023-09-03 — assets_current: AssetsCurrent
+XBRL tag — 2023-09-03 — liabilities_current: LiabilitiesCurrent
+2024-09-01 | 254,453 | 7,367 | 11,339 | 4,710 | not found | 23,622 | 46,209 | 34,246 | 35,464 | 0.97 | 1.96 | 31.2 | 6,629
+XBRL tag — 2024-09-01 — revenue: RevenueFromContractWithCustomerExcludingAssessedTax
+XBRL tag — 2024-09-01 — net_income: NetIncomeLoss
+XBRL tag — 2024-09-01 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2024-09-01 — capital_spending: PaymentsToAcquirePropertyPlantAndEquipment
+XBRL tag — 2024-09-01 — research_and_development: not found
+XBRL tag — 2024-09-01 — equity: StockholdersEquity
+XBRL tag — 2024-09-01 — liabilities: Liabilities
+XBRL tag — 2024-09-01 — assets_current: AssetsCurrent
+XBRL tag — 2024-09-01 — liabilities_current: LiabilitiesCurrent
+2025-08-31 | 275,235 | 8,099 | 13,335 | 5,498 | not found | 29,164 | 47,935 | 38,380 | 37,108 | 1.03 | 1.64 | 27.8 | 7,837
+XBRL tag — 2025-08-31 — revenue: RevenueFromContractWithCustomerExcludingAssessedTax
+XBRL tag — 2025-08-31 — net_income: NetIncomeLoss
+XBRL tag — 2025-08-31 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2025-08-31 — capital_spending: PaymentsToAcquirePropertyPlantAndEquipment
+XBRL tag — 2025-08-31 — research_and_development: not found
+XBRL tag — 2025-08-31 — equity: StockholdersEquity
+XBRL tag — 2025-08-31 — liabilities: Liabilities
+XBRL tag — 2025-08-31 — assets_current: AssetsCurrent
+XBRL tag — 2025-08-31 — liabilities_current: LiabilitiesCurrent
+2026-08-30 | 303,154 | 9,226 | 15,817 | 6,435 | not found | 35,803 | 53,242 | 46,582 | 43,952 | 1.06 | 1.49 | 25.8 | 9,382
+XBRL tag — 2026-08-30 — revenue: RevenueFromContractWithCustomerExcludingAssessedTax
+XBRL tag — 2026-08-30 — net_income: NetIncomeLoss
+XBRL tag — 2026-08-30 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2026-08-30 — capital_spending: PaymentsToAcquirePropertyPlantAndEquipment
+XBRL tag — 2026-08-30 — research_and_development: not found
+XBRL tag — 2026-08-30 — equity: StockholdersEquity
+XBRL tag — 2026-08-30 — liabilities: Liabilities
+XBRL tag — 2026-08-30 — assets_current: AssetsCurrent
+XBRL tag — 2026-08-30 — liabilities_current: LiabilitiesCurrent
+
+BUFFETT CHECKS
+ROE of 15% or more every year: pass
+Owner earnings positive every year: pass
+Owner earnings grew, first year to last: pass
+
+CATHIE WOOD CHECKS
+Revenue grew 15% or more a year, first to last: fail
+R&D at least 5% of revenue, latest year: not known
+
+BURRY CHECKS
+Operating cash flow at least net income every year: pass
+Liabilities no more than 2x equity, latest year: pass

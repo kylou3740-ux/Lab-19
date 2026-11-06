@@ -1,0 +1,71 @@
+FIN 43900 LAB 19 — LEGEND INVESTOR PANEL: NVDA
+CIK: 0001045810
+All monetary values are USD millions.
+Revenue CAGR, first to last year (annualized): 68.30%
+Latest-year R&D / revenue: 8.6%
+
+FY end | Revenue | Net income | Operating cash flow | Capital spending | R&D | Equity | Liabilities | Current assets | Current liabilities | Current ratio | Liabilities/equity | ROE % | Owner earnings
+--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---:
+2022-01-30 | 26,914 | 9,752 | 9,108 | 976 | 5,268 | 26,612 | 17,575 | 28,829 | 4,335 | 6.65 | 0.66 | 36.6 | 8,132
+XBRL tag — 2022-01-30 — revenue: RevenueFromContractWithCustomerExcludingAssessedTax
+XBRL tag — 2022-01-30 — net_income: NetIncomeLoss
+XBRL tag — 2022-01-30 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2022-01-30 — capital_spending: PaymentsToAcquireProductiveAssets
+XBRL tag — 2022-01-30 — research_and_development: ResearchAndDevelopmentExpense
+XBRL tag — 2022-01-30 — equity: StockholdersEquity
+XBRL tag — 2022-01-30 — liabilities: Liabilities
+XBRL tag — 2022-01-30 — assets_current: AssetsCurrent
+XBRL tag — 2022-01-30 — liabilities_current: LiabilitiesCurrent
+2023-01-29 | 26,974 | 4,368 | 5,641 | 1,833 | 7,339 | 22,101 | 19,081 | 23,073 | 6,563 | 3.52 | 0.86 | 19.8 | 3,808
+XBRL tag — 2023-01-29 — revenue: Revenues
+XBRL tag — 2023-01-29 — net_income: NetIncomeLoss
+XBRL tag — 2023-01-29 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2023-01-29 — capital_spending: PaymentsToAcquireProductiveAssets
+XBRL tag — 2023-01-29 — research_and_development: ResearchAndDevelopmentExpense
+XBRL tag — 2023-01-29 — equity: StockholdersEquity
+XBRL tag — 2023-01-29 — liabilities: Liabilities
+XBRL tag — 2023-01-29 — assets_current: AssetsCurrent
+XBRL tag — 2023-01-29 — liabilities_current: LiabilitiesCurrent
+2024-01-28 | 60,922 | 29,760 | 28,090 | 1,069 | 8,675 | 42,978 | 22,750 | 44,345 | 10,631 | 4.17 | 0.53 | 69.2 | 27,021
+XBRL tag — 2024-01-28 — revenue: Revenues
+XBRL tag — 2024-01-28 — net_income: NetIncomeLoss
+XBRL tag — 2024-01-28 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2024-01-28 — capital_spending: PaymentsToAcquireProductiveAssets
+XBRL tag — 2024-01-28 — research_and_development: ResearchAndDevelopmentExpense
+XBRL tag — 2024-01-28 — equity: StockholdersEquity
+XBRL tag — 2024-01-28 — liabilities: Liabilities
+XBRL tag — 2024-01-28 — assets_current: AssetsCurrent
+XBRL tag — 2024-01-28 — liabilities_current: LiabilitiesCurrent
+2025-01-26 | 130,497 | 72,880 | 64,089 | 3,236 | 12,914 | 79,327 | 32,274 | 80,126 | 18,047 | 4.44 | 0.41 | 91.9 | 60,853
+XBRL tag — 2025-01-26 — revenue: Revenues
+XBRL tag — 2025-01-26 — net_income: NetIncomeLoss
+XBRL tag — 2025-01-26 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2025-01-26 — capital_spending: PaymentsToAcquireProductiveAssets
+XBRL tag — 2025-01-26 — research_and_development: ResearchAndDevelopmentExpense
+XBRL tag — 2025-01-26 — equity: StockholdersEquity
+XBRL tag — 2025-01-26 — liabilities: Liabilities
+XBRL tag — 2025-01-26 — assets_current: AssetsCurrent
+XBRL tag — 2025-01-26 — liabilities_current: LiabilitiesCurrent
+2026-01-25 | 215,938 | 120,067 | 102,718 | 6,042 | 18,497 | 157,293 | 49,510 | 125,605 | 32,163 | 3.91 | 0.31 | 76.3 | 96,676
+XBRL tag — 2026-01-25 — revenue: Revenues
+XBRL tag — 2026-01-25 — net_income: NetIncomeLoss
+XBRL tag — 2026-01-25 — operating_cash_flow: NetCashProvidedByUsedInOperatingActivities
+XBRL tag — 2026-01-25 — capital_spending: PaymentsToAcquireProductiveAssets
+XBRL tag — 2026-01-25 — research_and_development: ResearchAndDevelopmentExpense
+XBRL tag — 2026-01-25 — equity: StockholdersEquity
+XBRL tag — 2026-01-25 — liabilities: Liabilities
+XBRL tag — 2026-01-25 — assets_current: AssetsCurrent
+XBRL tag — 2026-01-25 — liabilities_current: LiabilitiesCurrent
+
+BUFFETT CHECKS
+ROE of 15% or more every year: pass
+Owner earnings positive every year: pass
+Owner earnings grew, first year to last: pass
+
+CATHIE WOOD CHECKS
+Revenue grew 15% or more a year, first to last: pass
+R&D at least 5% of revenue, latest year: pass
+
+BURRY CHECKS
+Operating cash flow at least net income every year: fail
+Liabilities no more than 2x equity, latest year: pass
